@@ -1,4 +1,6 @@
-shooter_subtitle_for_vlc
-========================
+###Shooter Subtitles Extension for VLC Media Player###
+Put files to `~/.local/share/vlc/lua/extensions/`
 
-An VLC extension to download subtitle from shooter.cn
+
+###ToDo###
+Convert python scripts to lua scripts
